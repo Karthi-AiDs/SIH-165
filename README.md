@@ -66,6 +66,9 @@ Identifies strong and weak areas for future training.
 
 Helps refine interview questions and assessment criteria.
 
+![image](https://github.com/user-attachments/assets/3017c851-8c61-4654-b6f2-e94398113fe2)
+
+
 
 ## Technology Stack:
 
